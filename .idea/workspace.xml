@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f3a5a6-4202-4708-ad4e-7231d9376541" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile-docker" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,6 +156,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595211574718" />
+    <state x="2617" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595215814642">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2617" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595215814642" />
     <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1594788066949">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
